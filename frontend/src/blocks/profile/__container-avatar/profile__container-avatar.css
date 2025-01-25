@@ -1,0 +1,5 @@
+.profile__container-avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

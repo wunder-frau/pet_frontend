@@ -1,0 +1,9 @@
+.form-auth__line {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.2;
+  text-align: center;
+  color: #fff;
+}

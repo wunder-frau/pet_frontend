@@ -1,0 +1,15 @@
+.image-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 75vh;
+  max-height: 75vh;
+  top: 90px;
+  position: fixed;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1023px) {
+  .image-container {
+    width: 282px;
+  }
+}

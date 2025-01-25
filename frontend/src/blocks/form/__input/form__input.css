@@ -1,0 +1,30 @@
+.form__input {
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  border: none;
+  border-radius: 0;
+  padding: 14px 0 14px 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 5px 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1023px) {
+  .form__input {
+    margin: 0 22px;
+  }
+}
+
+.form__input:focus {
+  outline-color: rgba(12, 113, 207, 0.3);
+}
+
+/* .form__input:invalid {
+  border-bottom: 1px solid #FF0000;
+} */

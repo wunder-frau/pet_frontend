@@ -1,0 +1,19 @@
+.error {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+  display: none;
+  margin: 0 36px 6px;
+  padding-top: 5px;
+  box-sizing: border-box;
+  transition: opacity 0.3s;
+}
+
+@media screen and (max-width: 1023px) {
+  .error {
+    margin: 0 22px;
+  }
+}

@@ -1,0 +1,11 @@
+.element__like_active {
+  background: url('../../../../images/like__active.svg');
+  background-size: auto;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  margin: auto 0;
+  padding: 0;
+  width: 22px;
+  height: 19px;
+}

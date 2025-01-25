@@ -1,0 +1,7 @@
+.image-container__image {
+  max-width: 75vh;
+  max-height: 75vh;
+  object-fit: cover;
+  box-sizing: border-box;
+  padding: 0;
+}

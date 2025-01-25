@@ -1,0 +1,21 @@
+.header__logo {
+  font-family: "Inter", Arial, sans-serif;
+  margin: auto 0;
+  padding: 0 0 21px 0;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 1023px) {
+  .header__logo {
+    max-width: 104px;
+    height: 14px;
+    padding: 0 0 35px 5px;
+    font-size: 25px;
+  }
+}
+
+.header__logo:hover {
+  opacity: 0.6;
+}

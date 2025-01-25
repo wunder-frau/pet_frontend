@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  min-height: 330px;
+}
+
+@media screen and (max-width: 1023px) {
+  .form {
+    top: 123px;
+    width: 360px;
+    height: 322px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .form {
+    justify-content: center;
+    top: 123px;
+    width: 282px;
+    height: 322px;
+  }
+}
