@@ -14,7 +14,7 @@ function Header({ onClick, loggedIn }) {
   return (
     <header className="page__header header">
       <div className="header__link-container">
-        <h1 className="header__logo">Mesto</h1>
+        <h1 className="header__logo">QuickPic</h1>
         <LanguageSelector />
       </div>
       <div className="header__menu-container">
