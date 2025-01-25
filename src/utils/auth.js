@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:4000"; //"https://api.wunder-frau.nomoredomains.club";
+export const BASE_URL = "http://iresta.rest"; //"http://localhost:4000";
 
 export const checkResponse = (res) => {
   if (res.ok) {

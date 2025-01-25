@@ -122,8 +122,8 @@ class Api {
 }
 
 const apiInstance = new Api({
-  url: "http://localhost:4000",
+  url: "http://iresta.rest",
 });
 
-//"https://api.wunder-frau.nomoredomains.club", //"http://localhost:4000",
+//"http://localhost:4000",
 export default apiInstance;
