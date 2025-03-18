@@ -1,4 +1,4 @@
-# 📸 QuickPic – Backend
+# 📸 QuickPic – Frontend
 
 QuickPic is a responsive photo-sharing platform with **secure authentication** and **dynamic data handling**.
 
@@ -9,8 +9,8 @@ QuickPic is a responsive photo-sharing platform with **secure authentication** a
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Node.js, Express.js
+- **Frontend:** React, JavaScript
 - **Database:** MongoDB
-- **Logging:** Winston
-- **Security & Middleware:** CORS, JWT Authentication
+- **API Communication:** Fetch API
+- **UI Styling:** CSS
 - **Hosting & Deployment:** AWS
