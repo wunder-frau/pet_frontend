@@ -1,16 +1,16 @@
-# 📸 QuickPic – Frontend
+# 📸 QuickPic – Backend
 
 QuickPic is a responsive photo-sharing platform with **secure authentication** and **dynamic data handling**.
 
 ## 🔗 Links
 
 - **Live Demo:** [QuickPic](https://iresta.rest/sign-in)
-- **Frontend Repository:** [GitHub - Frontend](https://github.com/wunder-frau/pet_frontend)
+- **Backend Repository:** [GitHub - Backend](https://github.com/wunder-frau/pet_backend)
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, JavaScript
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **API Communication:** Fetch API
-- **UI Styling:** CSS
+- **Logging:** Winston
+- **Security & Middleware:** CORS, JWT Authentication
 - **Hosting & Deployment:** AWS
